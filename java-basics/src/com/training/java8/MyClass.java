@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 public class MyClass {
 	public static void main(String[] args) {
 		List<Product> prods = new ArrayList<>();
-		prods.add(new Product(101,"bottle","utensil",800.0));
+		prods.add(new Product(101,"new_bottles","utensil",800.0));
 		prods.add(new Product(102,"headphones","electronics",1100.0));
 		prods.add(new Product(103,"mouse","electronics",400.0));
 		prods.add(new Product(104,"marker box","stationary",200.0));
